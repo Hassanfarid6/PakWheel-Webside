@@ -1,6 +1,7 @@
 export default function Home() {
   return (
       
+<<<<<<< HEAD
    <div className="flex flex-col h-full w-auto bg-slate-400"> 
 
 
@@ -15,6 +16,9 @@ export default function Home() {
         </div>
       
       </nav>
+=======
+   <div className="flex flex-col h-screen w-auto bg-slate-400"> 
+>>>>>>> new-branch
       <ul className="flex justify-center font-extrabold mt-2 text-3xl font-serif">
         <li>This is website of Next.js</li><br />
       </ul>
@@ -33,10 +37,14 @@ export default function Home() {
         <div className="bg-orange-400 h-60 w-2/5 "></div>
       </div>
 
+<<<<<<< HEAD
         {/* Footer  */}
       <div className="mt-auto py-4 text-center font-serif text-2xl">
         <p className="text-white">Footer or additional content</p>
       </div>
+=======
+       
+>>>>>>> new-branch
 
    </div>
   );
