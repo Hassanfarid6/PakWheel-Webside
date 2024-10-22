@@ -1,3 +1,3 @@
   ## Deploy on Vercel
 
- [Live View](assignment-of-next-js.vercel.app)
+ [Live View](https://assignment-of-next-js.vercel.app)
