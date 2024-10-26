@@ -31,7 +31,7 @@ export default function HondaCivic() {
                 Adipisci veritatis quas provident distinctio.
 
                 </p>
-                <p className="text-xl mt-7 font-bold text-green-700">PKR 6500000</p>
+                <p className="text-xl mt-7 font-bold text-green-700">PKR 8500000</p>
 
                 <Link href="/carDetails/payment/paycivic" className="grid mx-auto hover:bg-blue-700 mt-10 items-center w-44 rounded-lg 
                  bg-blue-500 text-xl mb-10 font-bold h-12 text-white">Make Payment</Link>
