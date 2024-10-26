@@ -7,7 +7,7 @@ export default function Corolla() {
             <div className="grid-flow-col bg-blue-100">
             <h1 className="text-4xl mt-10 text-center font-bold text-black">Corolla</h1>
             <p className="text-2xl text-black">The Corolla is a car manufactured by Toyota in Japan.</p>
-            <Image src="/Corolla.jpg" className="mt-8 bg-blue-100 ml-16" alt="Corolla" width={500} height={200} />
+            <Image src="/corolla.jpg" className="mt-8 bg-blue-100 ml-16" alt="Corolla" width={500} height={200} />
         </div>
         <div className=" grid-flow-col bg-blue-100">
         <div>
