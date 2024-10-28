@@ -2,12 +2,12 @@ export default function Hero() {
     return (
         
         <div className="grid w-auto bg-white">
-        <div className="flex flex-col">
+        {/* <div className="flex flex-col">
           <ul className="flex justify-center font-extrabold mt-2 text-3xl font-serif">
             <li>This is website of Next.js</li>
             <br />
           </ul>
-        </div>
+        </div> */}
   
         <div className="grid  justify-evenly mt-7 gap-2 border-separate">
           {/* <div className="h-60 w-96  "> */}
